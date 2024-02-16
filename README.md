@@ -6,8 +6,9 @@ I'm Rishika, an Artificial Intelligence and Machine Learning enthusiast studying
 - 🗣️ Ask me anything about Python, AI/ML, and Data Structures.
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="22px" src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?logo=linkedin&style=flat-square&logoColor=white" />](www.linkedin.com/in/rishika-sugali-844587259)
-[<img align="left" alt="Instagram" width="22px" src="https://img.shields.io/badge/-Instagram-E4405F.svg?logo=instagram&style=flat-square&logoColor=white" />](https://www.instagram.com/rishika.835?igsh=dDVwZzJ0cHhiZjlp)
-[<img align="left" alt="Kaggle" width="22px" src="https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=flat-square&logoColor=white" />](https://www.kaggle.com/rishika835)
+[<img align="left" alt="LinkedIn" width="22px" src="YOUR_CUSTOM_LINKEDIN_ICON_URL" />](www.linkedin.com/in/rishika-sugali-844587259)
+[<img align="left" alt="Instagram" width="22px" src="YOUR_CUSTOM_INSTAGRAM_ICON_URL" />](https://www.instagram.com/rishika.835?igsh=dDVwZzJ0cHhiZjlp)
+[<img align="left" alt="Kaggle" width="22px" src="YOUR_CUSTOM_KAGGLE_ICON_URL" />](https://www.kaggle.com/rishika835)
 
+<br />
 <br />
