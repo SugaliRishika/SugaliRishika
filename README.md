@@ -6,7 +6,7 @@
 
 - 🔍 Find my projects over here: [https://github.com/SugaliRishika](https://github.com/SugaliRishika)
 
-- 💬 Ask me about **Python, AI/ML, and Data Structures.**
+- 💬 Ask me about **MongoDB,Node,Express,AI/ML,and Data Structures.**
 
 - 📩 Contact me through: **rishika.s22@iiits.in**
 
