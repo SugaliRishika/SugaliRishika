@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugalirishika&label=Profile%20views&color=0e75b6&style=flat" alt="sugalirishika" /> </p>
 <h3 align="center">I'm Rishika, currently pursing my bTech in IIIT Sricity CSE</h3>
 
-- 📘 I’m currently immersing myself in **AI and ML , with a special focus on Natural Language Processing.**
+- 📘 I’m currently immersing myself in **Full Stack Devolopment and as SoftWare Devolopment Engineer**
 
 - 🔍 Find my projects over here: [https://github.com/SugaliRishika](https://github.com/SugaliRishika)
 
